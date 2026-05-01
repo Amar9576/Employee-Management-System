@@ -15,7 +15,7 @@ It performs CRUD operations on Employee data.
 - Java
 - Spring Boot
 - Spring Data JPA
-- H2 Database
+- Oracle Database
 - REST API
 
 ## 🔗 API Endpoints
